@@ -1,0 +1,44 @@
+[
+  {
+    "id": "r3nD0k7m",
+    "name": "Dumplings",
+    "price": 120,
+    "img": "https://img.freepik.com/free-photo/tasty-asian-dumplings-top-view_23-2148249239.jpg?w=1380&t=st=1683022428~exp=1683023028~hmac=e0f4f1cab9bd9ec68712976b9808939d50b3f27530bd251192a83305c3eb03fa",
+    "description": "Small, filled pockets of dough that can be steamed, boiled or pan-fried, often served as a snack or appetizer."
+  },
+  {
+    "id": "s8KjM0p2",
+    "name": "Mapo Tofu",
+    "price": 110,
+    "img": "https://img.freepik.com/free-photo/homemade-kung-pao-chicken-with-peppers-vegetables-chinese-food-stir-fry_2829-7180.jpg?w=1380&t=st=1683003585~exp=1683004185~hmac=5ae3e86e46be0ba41b117b56eaf0591cb30a38f73237542d250e15456d58cdbf",
+    "description": "A spicy and flavorful Sichuan dish made with tofu, ground pork, and a spicy bean sauce."
+  },
+  {
+    "id": "t5ZfP9x1",
+    "name": "Hot and Sour Soup",
+    "price": 130,
+    "img": "https://img.freepik.com/free-photo/pork-bones-tom-yum-thai-food-tom-yum-pork-ribs-decorated-with-ingredients_1150-23358.jpg?w=1380&t=st=1683003629~exp=1683004229~hmac=3e04b9437ae03dbe9b55c9c6ed126badaee8f9e699a5da331b86f8f1e2dae3a6",
+    "description": "A savory soup made with vegetables, tofu, and a tangy, spicy broth."
+  },
+  {
+    "id": "u2FgD4n6",
+    "name": "Chow Mein",
+    "price": 150,
+    "img": "https://img.freepik.com/free-photo/korean-instant-noodles-spicy-instant-noodles_1205-1556.jpg?w=1380&t=st=1683003673~exp=1683004273~hmac=1839f75d131b90b41b0d535c9d7968ad51120c6db6eae87abe02cb1af477497a",
+    "description": "A stir-fried noodle dish often made with vegetables and meat or seafood. It also has larger amount of protein."
+  },
+  {
+    "id": "v1LhB7c9",
+    "name": "Fried Rice",
+    "price": 115,
+    "img": "https://img.freepik.com/free-photo/high-angle-traditional-asian-meal-with-chopsticks_23-2148694371.jpg?w=1380&t=st=1683003721~exp=1683004321~hmac=7c82d8144f32160b25d4a8b260435e16a3f931c2e447c02b117faf884841bdd8",
+    "description": "A dish made with rice, eggs, vegetables, and often meat or seafood, stir-fried with soy sauce and other seasonings."
+  },
+  {
+    "id": "w0XeN5s2",
+    "name": "Spring Rolls ",
+    "price": 120,
+    "img": "https://img.freepik.com/free-photo/fried-spring-rolls-cutting-board_1150-17010.jpg?w=1380&t=st=1683003749~exp=1683004349~hmac=2ad9332e77d814f975ad34156a1f92bc1f21bbd7a7539d32cc61ab44521b5d76",
+    "description": "Thin, crispy pastry wrapped around a filling of vegetables, meat, or seafood and often served with a sweet dipping sauce."
+  }
+]
